@@ -1,0 +1,62 @@
+﻿  Source.cpp
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Dish.h(72,1): warning C4297: Dish::deleteFromDish: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Dish.h(72,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Order.h(35,1): warning C4297: Order::SetClientName: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Order.h(35,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Order.h(51,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Order.h(57,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Order.h(67,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(42,1): warning C4297: User::SetUsername: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(42,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(51,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(50,1): warning C4297: User::SetPassword: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(50,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(61,1): warning C4297: User::SetPassword: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(61,1): message : для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(125,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(136,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(144,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\LoginOrRegister.h(148,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(40,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(55,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(71,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(83,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(125,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(157,66): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(230,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(302,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(444,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(526,43): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(582,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(595,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(601,26): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(614,39): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(644,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(657,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(663,26): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(676,39): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(738,41): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(760,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(786,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(193,54): warning C4244: инициализация: преобразование "_Ty" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(158): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<const Ingredient,int>::pair<Ingredient&,double,0>(_Other1,_Other2 &&) noexcept(false)"
+          with
+          [
+              _Other1=Ingredient &,
+              _Other2=double
+          ]
+C:\Users\asus\source\repos\ProjectStep\ProjectStep\Source.cpp(158): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<const Ingredient,int>::pair<Ingredient&,double,0>(_Other1,_Other2 &&) noexcept(false)"
+          with
+          [
+              _Other1=Ingredient &,
+              _Other2=double
+          ]
+  ProjectStep.vcxproj -> C:\Users\asus\source\repos\ProjectStep\Debug\ProjectStep.exe
