@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\Csharp\Csharp\bin\Debug\net5.0\Csharp.exe
+C:\Users\asus\source\repos\Csharp\Csharp\bin\Debug\net5.0\Csharp.deps.json
+C:\Users\asus\source\repos\Csharp\Csharp\bin\Debug\net5.0\Csharp.runtimeconfig.json
+C:\Users\asus\source\repos\Csharp\Csharp\bin\Debug\net5.0\Csharp.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Csharp\Csharp\bin\Debug\net5.0\Csharp.dll
+C:\Users\asus\source\repos\Csharp\Csharp\bin\Debug\net5.0\ref\Csharp.dll
+C:\Users\asus\source\repos\Csharp\Csharp\bin\Debug\net5.0\Csharp.pdb
+C:\Users\asus\source\repos\Csharp\Csharp\obj\Debug\net5.0\Csharp.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Csharp\Csharp\obj\Debug\net5.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Csharp\Csharp\obj\Debug\net5.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Csharp\Csharp\obj\Debug\net5.0\Csharp.AssemblyInfo.cs
+C:\Users\asus\source\repos\Csharp\Csharp\obj\Debug\net5.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Csharp\Csharp\obj\Debug\net5.0\Csharp.dll
+C:\Users\asus\source\repos\Csharp\Csharp\obj\Debug\net5.0\ref\Csharp.dll
+C:\Users\asus\source\repos\Csharp\Csharp\obj\Debug\net5.0\Csharp.pdb
+C:\Users\asus\source\repos\Csharp\Csharp\obj\Debug\net5.0\Csharp.genruntimeconfig.cache
